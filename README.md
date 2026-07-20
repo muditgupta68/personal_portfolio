@@ -18,12 +18,13 @@ I believe in continuously learning and documenting my journey through hands-on p
 
 - 🗄️ [SQL](#sql)
 - 🐍 [Python (EDA)](#python)
-- 📊 [Power BI](#power-bi)
+- 📊 [Power BI](#powerbi)
 - 📈 [Excel](#excel)
+- 📫 [Connect with Me!](#excel)
 
 ---
-<a name="sql"></a>
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/43075aa4-34f9-4a6a-8c36-e7b23ff2f7a2" /> SQL
+<a name="sql"></a>
 
 | Project Link | Area of Analysis | Project Description |
 |:------------|:-----------------|:--------------------|
@@ -36,6 +37,7 @@ I believe in continuously learning and documenting my journey through hands-on p
 ---
 
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ec3f27d2-f9a9-4110-bb37-46a547bf5b3a" /> Python
+<a name="python"></a>
 
 | Project Link | Area | Project Description | Libraries |
 |:-------------|:-----|:--------------------|:----------|
@@ -48,7 +50,7 @@ I believe in continuously learning and documenting my journey through hands-on p
 ---
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/14667572-2622-49ba-b653-ceb74e9a401f" /> Power BI Projects
-
+<a name="powerbi"></a>
 | Project Link | Area | Project Description |
 |:-------------|:-----|:--------------------
 | 📈 [Blinkit Sales Dashboard](#) | Sales Analytics | Interactive dashboard analyzing sales performance, product categories, customer ratings, and outlet performance. | 
@@ -59,7 +61,7 @@ I believe in continuously learning and documenting my journey through hands-on p
 ---
 
 ## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/68339a1f-cd78-4497-b5dc-629240415c07" /> Excel Projects
-
+<a name="excel"></a>
 | Project Link | Area | Project Description |
 |:-------------|:-----|:--------------------
 | 📈 [Blinkit Sales Dashboard](#) | Sales Analytics | Interactive dashboard analyzing sales performance, product categories, customer ratings, and outlet performance. | 
@@ -69,7 +71,7 @@ I believe in continuously learning and documenting my journey through hands-on p
 
 ---
 ## 📫 Connect with Me
-
+<a name="connect"></a>
 - 💼 LinkedIn: https://www.linkedin.com/in/mudit-gupta-303994192
 - 📧 Email: muditgupta68@gmail.com
 
