@@ -1,8 +1,8 @@
 # Hi there, I'm Mudit Gupta 👋
 
 💼 Business Analyst @ Shell India  
-📊 Passionate about Data Analytics, Business Intelligence & Generative AI  
-🌱 Currently learning and building projects with SQL, Python, Power BI, Excel and GenAI.
+📊 Passionate about Data Analytics \& Business Intelligence  
+🌱 Currently learning and building projects with SQL, Python, Power BI \& Excel
 
 ---
 
