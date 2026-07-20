@@ -16,14 +16,14 @@ I believe in continuously learning and documenting my journey through hands-on p
 
 ## 🛠️ Tech Stack
 
-- 🗄️ [SQL](#-sql)
+- 🗄️ [SQL](#sql)
 - 🐍 [Python (EDA)](#python)
 - 📊 [Power BI](#power-bi)
 - 📈 [Excel](#excel)
 
 ---
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/43075aa4-34f9-4a6a-8c36-e7b23ff2f7a2" /> 
-## SQL
+<a name="sql"></a>
+## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/43075aa4-34f9-4a6a-8c36-e7b23ff2f7a2" /> SQL
 
 | Project Link | Area of Analysis | Project Description |
 |:------------|:-----------------|:--------------------|
