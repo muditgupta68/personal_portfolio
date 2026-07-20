@@ -16,38 +16,14 @@ I believe in continuously learning and documenting my journey through hands-on p
 
 ## 🛠️ Tech Stack
 
-### Business Analysis
-
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
-
-### Data Analytics
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Generative AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-4285F4?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/Databricks-Learning-EF3E42?style=for-the-badge)
-
----
-## 📑 Table of Contents
-
-- 🗄️ [SQL](#sql)
+- 🗄️ [SQL](#-sql)
 - 🐍 [Python (EDA)](#python)
 - 📊 [Power BI](#power-bi)
 - 📈 [Excel](#excel)
 
 ---
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/43075aa4-34f9-4a6a-8c36-e7b23ff2f7a2" /> SQL Projects
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/43075aa4-34f9-4a6a-8c36-e7b23ff2f7a2" /> 
+## SQL
 
 | Project Link | Area of Analysis | Project Description |
 |:------------|:-----------------|:--------------------|
