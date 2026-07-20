@@ -39,7 +39,14 @@ I believe in continuously learning and documenting my journey through hands-on p
 ![Databricks](https://img.shields.io/badge/Databricks-Learning-EF3E42?style=for-the-badge)
 
 ---
+## 📑 Table of Contents
 
+- 🗄️ [SQL](#sql)
+- 🐍 [Python (EDA)](#python)
+- 📊 [Power BI](#power-bi)
+- 📈 [Excel](#excel)
+
+---
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/43075aa4-34f9-4a6a-8c36-e7b23ff2f7a2" /> SQL Projects
 
 | Project Link | Area of Analysis | Project Description |
