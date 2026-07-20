@@ -23,8 +23,8 @@ I believe in continuously learning and documenting my journey through hands-on p
 - 📫 [Connect with Me!](#excel)
 
 ---
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/43075aa4-34f9-4a6a-8c36-e7b23ff2f7a2" /> SQL
 <a name="sql"></a>
+## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/43075aa4-34f9-4a6a-8c36-e7b23ff2f7a2" /> SQL
 
 | Project Link | Area of Analysis | Project Description |
 |:------------|:-----------------|:--------------------|
@@ -35,9 +35,8 @@ I believe in continuously learning and documenting my journey through hands-on p
 | 🚚 [Supply Chain Analytics](#) | Supply Chain Analytics | Evaluated inventory movement, supplier performance, and logistics KPIs using SQL queries. |
 
 ---
-
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ec3f27d2-f9a9-4110-bb37-46a547bf5b3a" /> Python
 <a name="python"></a>
+## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ec3f27d2-f9a9-4110-bb37-46a547bf5b3a" /> Python
 
 | Project Link | Area | Project Description | Libraries |
 |:-------------|:-----|:--------------------|:----------|
@@ -48,9 +47,9 @@ I believe in continuously learning and documenting my journey through hands-on p
 | 🛒 [Customer Segmentation](#) | Data Analysis | Segmented customers based on purchasing behavior using RFM analysis and clustering techniques for targeted marketing. | pandas, scikit-learn |
 
 ---
-
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/14667572-2622-49ba-b653-ceb74e9a401f" /> Power BI Projects
 <a name="powerbi"></a>
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/14667572-2622-49ba-b653-ceb74e9a401f" /> Power BI Projects
+
 | Project Link | Area | Project Description |
 |:-------------|:-----|:--------------------
 | 📈 [Blinkit Sales Dashboard](#) | Sales Analytics | Interactive dashboard analyzing sales performance, product categories, customer ratings, and outlet performance. | 
@@ -59,9 +58,9 @@ I believe in continuously learning and documenting my journey through hands-on p
 | 👥 [HR Dashboard](#) | HR Analytics | Dashboard for employee demographics, attrition, hiring trends, and workforce insights. |
 
 ---
-
-## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/68339a1f-cd78-4497-b5dc-629240415c07" /> Excel Projects
 <a name="excel"></a>
+## <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/68339a1f-cd78-4497-b5dc-629240415c07" /> Excel Projects
+
 | Project Link | Area | Project Description |
 |:-------------|:-----|:--------------------
 | 📈 [Blinkit Sales Dashboard](#) | Sales Analytics | Interactive dashboard analyzing sales performance, product categories, customer ratings, and outlet performance. | 
@@ -70,8 +69,9 @@ I believe in continuously learning and documenting my journey through hands-on p
 | 👥 [HR Dashboard](#) | HR Analytics | Dashboard for employee demographics, attrition, hiring trends, and workforce insights. |
 
 ---
-## 📫 Connect with Me
 <a name="connect"></a>
+## 📫 Connect with Me
+
 - 💼 LinkedIn: https://www.linkedin.com/in/mudit-gupta-303994192
 - 📧 Email: muditgupta68@gmail.com
 
