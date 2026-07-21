@@ -29,10 +29,7 @@ I believe in continuously learning and documenting my journey through hands-on p
 | Project Link | Area of Analysis | Project Description |
 |:------------|:-----------------|:--------------------|
 | 💡 [8-Week SQL Challenge](#) | SQL, Data Cleaning & Transformation | Solved real-world business case studies covering joins, CTEs, window functions, aggregations, and analytical SQL queries. |
-| 🛍️ [Retail Sales Analysis](#) | Sales Analytics | Analyzed sales performance, customer purchasing behavior, and product trends using SQL to derive business insights. |
-| 🏥 [Healthcare Analytics](#) | Healthcare Analytics | Explored patient records and healthcare KPIs to answer business questions using SQL queries. |
-| 🏦 [Bank Loan Analysis](#) | Financial Analytics | Analyzed loan applications, approval trends, customer demographics, and risk indicators using SQL. |
-| 🚚 [Supply Chain Analytics](#) | Supply Chain Analytics | Evaluated inventory movement, supplier performance, and logistics KPIs using SQL queries. |
+| 🛍️ [ABC](#) |  | |
 
 ---
 <a name="python"></a>
@@ -40,11 +37,7 @@ I believe in continuously learning and documenting my journey through hands-on p
 
 | Project Link | Area | Project Description | Libraries |
 |:-------------|:-----|:--------------------|:----------|
-| 👨🏻‍💻 [Netflix EDA](#) | Data Wrangling & EDA | Performed exploratory data analysis on the Netflix Movies & TV Shows dataset to uncover content trends, genre distribution, country-wise production, and release patterns using Python. | pandas, matplotlib, seaborn |
-| 📈 [Retail Sales Analysis](#) | Data Wrangling & EDA | Cleaned and analyzed retail sales data to identify revenue trends, seasonal demand, top-performing products, and customer purchasing behavior. | pandas, matplotlib |
-| 💼 [HR Analytics](#) | Data Wrangling & EDA | Explored employee attrition, salary distribution, department performance, and workforce demographics to generate actionable HR insights. | pandas, matplotlib, seaborn |
-| 🏦 [Bank Loan Analysis](#) | Data Analysis | Analyzed loan approval trends, applicant demographics, and financial indicators to understand factors influencing loan decisions. | pandas, matplotlib |
-| 🛒 [Customer Segmentation](#) | Data Analysis | Segmented customers based on purchasing behavior using RFM analysis and clustering techniques for targeted marketing. | pandas, scikit-learn |
+| 👨🏻‍💻 [Netflix EDA](#) | Data Wrangling & EDA | Performed exploratory data analysis on the Netflix Movies & TV Shows dataset to uncover content trends, genre distribution, country-wise production, and release patterns using Python | pandas, matplotlib, seaborn |
 
 ---
 <a name="powerbi"></a>
@@ -53,9 +46,7 @@ I believe in continuously learning and documenting my journey through hands-on p
 | Project Link | Area | Project Description |
 |:-------------|:-----|:--------------------
 | 📈 [Blinkit Sales Dashboard](#) | Sales Analytics | Interactive dashboard analyzing sales performance, product categories, customer ratings, and outlet performance. | 
-| 🚚 [Supply Chain Dashboard](#) | Supply Chain Analytics | Dashboard tracking inventory, logistics, supplier performance, and delivery KPIs. |
-| 💰 [Financial Dashboard](#) | Finance Analytics | Executive dashboard visualizing revenue, expenses, profit margins, and financial KPIs. |
-| 👥 [HR Dashboard](#) | HR Analytics | Dashboard for employee demographics, attrition, hiring trends, and workforce insights. |
+| 📈 [ABC](#) |  |  | 
 
 ---
 <a name="excel"></a>
@@ -64,9 +55,7 @@ I believe in continuously learning and documenting my journey through hands-on p
 | Project Link | Area | Project Description |
 |:-------------|:-----|:--------------------
 | 📈 [Blinkit Sales Dashboard](#) | Sales Analytics | Interactive dashboard analyzing sales performance, product categories, customer ratings, and outlet performance. | 
-| 🚚 [Supply Chain Dashboard](#) | Supply Chain Analytics | Dashboard tracking inventory, logistics, supplier performance, and delivery KPIs. |
-| 💰 [Financial Dashboard](#) | Finance Analytics | Executive dashboard visualizing revenue, expenses, profit margins, and financial KPIs. |
-| 👥 [HR Dashboard](#) | HR Analytics | Dashboard for employee demographics, attrition, hiring trends, and workforce insights. |
+| 🚚 [ABC](#) |  |  |
 
 ---
 <a name="connect"></a>
